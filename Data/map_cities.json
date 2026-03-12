@@ -2,21 +2,21 @@
   {
     "city_id": 1,
     "city": "Palghar",
-    "state": "NY",
+    "state": "Mah",
     "region": "Northeast",
     "updated_at":"2026-03-12T10:37:05.076+00:00"
   },
   {
     "city_id": 2,
     "city": "Boisar",
-    "state": "CA",
+    "state": "Mah",
     "region": "West",
     "updated_at":"2026-03-12T10:37:05.076+00:00"
   },
   {
     "city_id": 3,
     "city": "Dahanu",
-    "state": "IL",
+    "state": "Mah",
     "region": "Midwest",
     "updated_at":"2026-03-12T10:37:05.076+00:00"
   },
@@ -70,6 +70,7 @@
     "updated_at":"2026-03-12T10:37:05.076+00:00"
   }
 ]
+
 
 
 
