@@ -1,0 +1,9 @@
+{
+	"name": "Ridedatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34a4f41b-8324-4350-8430-c7b597e8581c",
+		"tenantId": "ac629bd2-dd10-4286-8e35-db224fa92958"
+	}
+}
